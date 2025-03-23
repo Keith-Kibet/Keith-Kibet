@@ -13,6 +13,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/keith-kibet-3024b033b/)  
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=GitHub&logoColor=white)](https://github.com/Keith-Kibet)  
 
+📞 **Phone:** [+254 799 832 982](tel:+254799832982) / [+254 734 040 152](tel:+254734040152)  
+📧 **Email:** [keithkibet2@gmail.com](mailto:keithkibet2@gmail.com)  
+
 ---
 
 # 💻 Tech Stack:
@@ -74,5 +77,3 @@
 [![](https://visitcount.itsvg.in/api?id=Keith-Kibet&icon=1&color=3)](https://visitcount.itsvg.in)  
 
 ---
-
-*Proudly created with GPRM ( https://gprm.itsvg.in )*
